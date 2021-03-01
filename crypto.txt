@@ -1,0 +1,6 @@
+{
+    "Name" : "Jonh Smith",
+    "BTC" : 23,
+    "ETH" : 345,
+    "DASH" : 1045
+}
